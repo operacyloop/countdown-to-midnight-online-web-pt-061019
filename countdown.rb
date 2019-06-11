@@ -12,4 +12,4 @@ end
   
 #end
 
-countdown(12)
+countdown(100)
